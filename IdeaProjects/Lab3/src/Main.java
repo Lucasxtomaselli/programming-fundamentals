@@ -7,7 +7,7 @@ public class Main {
         double gasPercent;
         Scanner scanner = new Scanner(System.in);
 
-
+        //Adding a new line for the github difference test: Test 1!
         System.out.println("Enter your car's MPG rating (miles/gallon) as a positive integer: ");
         mpg = scanner.nextInt();
         if (mpg <= 0){
